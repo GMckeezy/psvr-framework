@@ -1,11 +1,11 @@
 {
   "name": "psvr-framework",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node port of PSVR-Framework",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GMckeeze/psvr-framework.git"
+    "url": "git+https://github.com/GMckeezy/psvr-framework.git"
   },
   "keywords": [
     "PSVR",
@@ -19,7 +19,7 @@
   "author": "Gary Mckee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GMckeeze/psvr-framework/issues"
+    "url": "https://github.com/GMckeezy/psvr-framework/issues"
   },
-  "homepage": "https://github.com/GMckeeze/psvr-framework#readme"
+  "homepage": "https://github.com/GMckeezy/psvr-framework#readme"
 }
