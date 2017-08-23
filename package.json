@@ -1,0 +1,25 @@
+{
+  "name": "psvr-framework",
+  "version": "0.1.0",
+  "description": "Node port of PSVR-Framework",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMckeeze/psvr-framework.git"
+  },
+  "keywords": [
+    "PSVR",
+    "VR",
+    "playstation"
+  ],
+  "dependencies": {
+    "enum": "^2.4.0",
+    "usb": "git+https://github.com/tessel/node-usb.git#1.3.0"
+  },
+  "author": "Gary Mckee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GMckeeze/psvr-framework/issues"
+  },
+  "homepage": "https://github.com/GMckeeze/psvr-framework#readme"
+}
